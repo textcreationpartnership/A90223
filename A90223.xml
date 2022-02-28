@@ -1,0 +1,3164 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A catalogue of books, pictures, and maps. Neately cut in copper, being very pleasant ornaments for houses, studies and closets, and also extraordinary useful for goldsmiths, iewellers, chafers, gravers, painters, carvers, embroiderers drawers, needle-women, and all handicrafts. All made and sold by John Overton at the White Horse without Newgate. Five hundred new sorts of birds, beasts, fish, flies, wormes, flowers, fruites, figures, histories, landskips, ovals, neately cut in copper, and neatly coloured, for gentlewomens works, and he is a doing more as fast as time will permit.</title>
+            <author>Overton, John, 1640-1708?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1675</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90223</idno>
+            <idno type="STC">Wing O616A</idno>
+            <idno type="STC">ESTC R214546</idno>
+            <idno type="EEBO-CITATION">99826673</idno>
+            <idno type="PROQUEST">99826673</idno>
+            <idno type="VID">153462</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90223)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153462)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1767:8 or 2366:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A catalogue of books, pictures, and maps. Neately cut in copper, being very pleasant ornaments for houses, studies and closets, and also extraordinary useful for goldsmiths, iewellers, chafers, gravers, painters, carvers, embroiderers drawers, needle-women, and all handicrafts. All made and sold by John Overton at the White Horse without Newgate. Five hundred new sorts of birds, beasts, fish, flies, wormes, flowers, fruites, figures, histories, landskips, ovals, neately cut in copper, and neatly coloured, for gentlewomens works, and he is a doing more as fast as time will permit.</title>
+                  <author>Overton, John, 1640-1708?</author>
+               </titleStmt>
+               <extent>2 sheets : map.  </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1675?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Imperfect: copy at reel 1767:8 lacks part of first sheet, containing map.</note>
+                  <note>Reproductions of the originals in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catalogs, Booksellers' --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb n="156" facs="tcp:153462:1" rendition="simple:additions"/>
+            <p>A CATALOGVE OF BOOKS, PICTURES, and Maps.</p>
+            <p>Neately cut in Copper, being very pleaſant Ornaments for Houſes, Studies and Cloſets, and alſo extraordinary uſeful for Goldſmiths, Iewellers, Chaſers, Gravers, Painters, Carvers, Embroiderers Drawers, Needle-women, and all Handicrafts. All made and ſold by <hi>John Overton</hi> at the <hi>White Horſe</hi> without <hi>Newgate.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="mileage_chart">
+            <p>
+               <table>
+                  <row>
+                     <cell role="label">Yorke <hi>ſhire.</hi>
+                     </cell>
+                     <cell role="label">Yorke.</cell>
+                     <cell role="label">Bridlington.</cell>
+                     <cell role="label">Beuerley.</cell>
+                     <cell role="label">Bawtre.</cell>
+                     <cell role="label">Barneſley</cell>
+                     <cell role="label">Burrow bridg</cell>
+                     <cell role="label">Bedall.</cell>
+                     <cell role="label">Bradforth.</cell>
+                     <cell role="label">Doncaſter</cell>
+                     <cell role="label">Gisborow.</cell>
+                     <cell role="label">Houingham.</cell>
+                     <cell role="label">Helmeſley.</cell>
+                     <cell role="label">Headon.</cell>
+                     <cell role="label">Hull.</cell>
+                     <cell role="label">Howden.</cell>
+                     <cell role="label">Hallifax.</cell>
+                     <cell role="label">Kirby Moreſide</cell>
+                     <cell role="label">Kellam.</cell>
+                     <cell role="label">Knaresburrow</cell>
+                     <cell role="label">Leedes.</cell>
+                     <cell role="label">Malton.</cell>
+                     <cell role="label">Maſham.</cell>
+                     <cell role="label">Mydlam.</cell>
+                     <cell role="label">North Allerto<g ref="char:cmbAbbrStroke">̄</g>
+                     </cell>
+                     <cell role="label">Oteley.</cell>
+                     <cell role="label">Pickering.</cell>
+                     <cell role="label">Pocklington.</cell>
+                     <cell role="label">Rotheram.</cell>
+                     <cell role="label">Ripley.</cell>
+                     <cell role="label">Rippon.</cell>
+                     <cell role="label">Richmond.</cell>
+                     <cell role="label">Skelton Caſtle</cell>
+                     <cell role="label">Skarborow.</cell>
+                     <cell role="label">Sherifehutton</cell>
+                     <cell role="label">Selby</cell>
+                     <cell role="label">Snathe.</cell>
+                     <cell role="label">Sheffeild</cell>
+                     <cell role="label">Stokeſley.</cell>
+                     <cell role="label">Pontfract</cell>
+                     <cell role="label">Skipton Caſt.</cell>
+                     <cell role="label">Thruske.</cell>
+                     <cell role="label">Whiteby.</cell>
+                     <cell role="label">Wighton.</cell>
+                     <cell role="label">Wakefeild.</cell>
+                     <cell role="label">Wetherby.</cell>
+                     <cell role="label">Whitegift Ferry</cell>
+                  </row>
+                  <row>
+                     <cell role="label">Yarum. N.</cell>
+                     <cell>29</cell>
+                     <cell>41</cell>
+                     <cell>44</cell>
+                     <cell>55</cell>
+                     <cell>49</cell>
+                     <cell>21</cell>
+                     <cell>14</cell>
+                     <cell>38</cell>
+                     <cell>50</cell>
+                     <cell>9</cell>
+                     <cell>19</cell>
+                     <cell>15</cell>
+                     <cell>52</cell>
+                     <cell>50</cell>
+                     <cell>41</cell>
+                     <cell>43</cell>
+                     <cell>17</cell>
+                     <cell>30</cell>
+                     <cell>27</cell>
+                     <cell>37</cell>
+                     <cell>25</cell>
+                     <cell>18</cell>
+                     <cell>19</cell>
+                     <cell>9</cell>
+                     <cell>32</cell>
+                     <cell>21</cell>
+                     <cell>34</cell>
+                     <cell>55</cell>
+                     <cell>25</cell>
+                     <cell>20</cell>
+                     <cell>14</cell>
+                     <cell>12</cell>
+                     <cell>32</cell>
+                     <cell>23</cell>
+                     <cell>38</cell>
+                     <cell>42</cell>
+                     <cell>57</cell>
+                     <cell>5</cell>
+                     <cell>42</cell>
+                     <cell>34</cell>
+                     <cell>15</cell>
+                     <cell>24</cell>
+                     <cell>38</cell>
+                     <cell>43</cell>
+                     <cell>30</cell>
+                     <cell>43</cell>
+                  </row>
+                  <row>
+                     <cell role="label">Whitegift Ferry S. E.</cell>
+                     <cell>16</cell>
+                     <cell>27</cell>
+                     <cell>13</cell>
+                     <cell>16</cell>
+                     <cell>24</cell>
+                     <cell>27</cell>
+                     <cell>40</cell>
+                     <cell>21</cell>
+                     <cell>16</cell>
+                     <cell>43</cell>
+                     <cell>25</cell>
+                     <cell>29</cell>
+                     <cell>18</cell>
+                     <cell>14</cell>
+                     <cell>3</cell>
+                     <cell>35</cell>
+                     <cell>29</cell>
+                     <cell>22</cell>
+                     <cell>27</cell>
+                     <cell>24</cell>
+                     <cell>22</cell>
+                     <cell>39</cell>
+                     <cell>44</cell>
+                     <cell>38</cell>
+                     <cell>30</cell>
+                     <cell>28</cell>
+                     <cell>11</cell>
+                     <cell>23</cell>
+                     <cell>32</cell>
+                     <cell>32</cell>
+                     <cell>47</cell>
+                     <cell>45</cell>
+                     <cell>34</cell>
+                     <cell>20</cell>
+                     <cell>10</cell>
+                     <cell>9</cell>
+                     <cell>27</cell>
+                     <cell>41</cell>
+                     <cell>16</cell>
+                     <cell>41</cell>
+                     <cell>31</cell>
+                     <cell>41</cell>
+                     <cell>8</cell>
+                     <cell>23</cell>
+                     <cell>23</cell>
+                     <cell>250</cell>
+                  </row>
+                  <row>
+                     <cell role="label">Wetherby. W</cell>
+                     <cell>11</cell>
+                     <cell>40</cell>
+                     <cell>32</cell>
+                     <cell>27</cell>
+                     <cell>18</cell>
+                     <cell>9</cell>
+                     <cell>20</cell>
+                     <cell>12</cell>
+                     <cell>23</cell>
+                     <cell>35</cell>
+                     <cell>20</cell>
+                     <cell>21</cell>
+                     <cell>40</cell>
+                     <cell>35</cell>
+                     <cell>20</cell>
+                     <cell>17</cell>
+                     <cell>24</cell>
+                     <cell>34</cell>
+                     <cell>5</cell>
+                     <cell>8</cell>
+                     <cell>23</cell>
+                     <cell>18</cell>
+                     <cell>24</cell>
+                     <cell>22</cell>
+                     <cell>9</cell>
+                     <cell>27</cell>
+                     <cell>20</cell>
+                     <cell>25</cell>
+                     <cell>9</cell>
+                     <cell>12</cell>
+                     <cell>28</cell>
+                     <cell>37</cell>
+                     <cell>40</cell>
+                     <cell>15</cell>
+                     <cell>14</cell>
+                     <cell>16</cell>
+                     <cell>28</cell>
+                     <cell>30</cell>
+                     <cell>12</cell>
+                     <cell>19</cell>
+                     <cell>16</cell>
+                     <cell>42</cell>
+                     <cell>24</cell>
+                     <cell>13</cell>
+                     <cell>25<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell role="label">Wakefeild. SW</cell>
+                     <cell>20</cell>
+                     <cell>47</cell>
+                     <cell>35</cell>
+                     <cell>20</cell>
+                     <cell>6</cell>
+                     <cell>21</cell>
+                     <cell>32</cell>
+                     <cell>11</cell>
+                     <cell>14</cell>
+                     <cell>46</cell>
+                     <cell>27</cell>
+                     <cell>30</cell>
+                     <cell>40</cell>
+                     <cell>36</cell>
+                     <cell>20</cell>
+                     <cell>13</cell>
+                     <cell>36</cell>
+                     <cell>41</cell>
+                     <cell>16</cell>
+                     <cell>9</cell>
+                     <cell>33</cell>
+                     <cell>29</cell>
+                     <cell>34</cell>
+                     <cell>34</cell>
+                     <cell>14</cell>
+                     <cell>38</cell>
+                     <cell>26</cell>
+                     <cell>14</cell>
+                     <cell>19</cell>
+                     <cell>24</cell>
+                     <cell>38</cell>
+                     <cell>49</cell>
+                     <cell>48</cell>
+                     <cell>26</cell>
+                     <cell>15</cell>
+                     <cell>14</cell>
+                     <cell>15</cell>
+                     <cell>42</cell>
+                     <cell>7</cell>
+                     <cell>22</cell>
+                     <cell>29</cell>
+                     <cell>51</cell>
+                     <cell>27</cell>
+                     <cell>242</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell role="label">Wighton SE</cell>
+                     <cell>13</cell>
+                     <cell>20</cell>
+                     <cell>8</cell>
+                     <cell>25</cell>
+                     <cell>30</cell>
+                     <cell>26</cell>
+                     <cell>37</cell>
+                     <cell>34</cell>
+                     <cell>24</cell>
+                     <cell>37</cell>
+                     <cell>20</cell>
+                     <cell>24</cell>
+                     <cell>16</cell>
+                     <cell>13</cell>
+                     <cell>8</cell>
+                     <cell>38</cell>
+                     <cell>23</cell>
+                     <cell>14</cell>
+                     <cell>27</cell>
+                     <cell>27</cell>
+                     <cell>15</cell>
+                     <cell>37</cell>
+                     <cell>44</cell>
+                     <cell>35</cell>
+                     <cell>32</cell>
+                     <cell>21</cell>
+                     <cell>5</cell>
+                     <cell>21</cell>
+                     <cell>31</cell>
+                     <cell>30</cell>
+                     <cell>45</cell>
+                     <cell>38</cell>
+                     <cell>25</cell>
+                     <cell>16</cell>
+                     <cell>13</cell>
+                     <cell>14</cell>
+                     <cell>35</cell>
+                     <cell>35</cell>
+                     <cell>23</cell>
+                     <cell>43</cell>
+                     <cell>28</cell>
+                     <cell>33</cell>
+                     <cell>244</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell role="label">Whiteby. N.E</cell>
+                     <cell>33</cell>
+                     <cell>23</cell>
+                     <cell>35</cell>
+                     <cell>57</cell>
+                     <cell>57</cell>
+                     <cell>35</cell>
+                     <cell>36</cell>
+                     <cell>52</cell>
+                     <cell>54</cell>
+                     <cell>16</cell>
+                     <cell>21</cell>
+                     <cell>21</cell>
+                     <cell>40</cell>
+                     <cell>39</cell>
+                     <cell>40</cell>
+                     <cell>58</cell>
+                     <cell>17</cell>
+                     <cell>23</cell>
+                     <cell>40</cell>
+                     <cell>48</cell>
+                     <cell>20</cell>
+                     <cell>39</cell>
+                     <cell>43</cell>
+                     <cell>30</cell>
+                     <cell>47</cell>
+                     <cell>14</cell>
+                     <cell>31</cell>
+                     <cell>61</cell>
+                     <cell>41</cell>
+                     <cell>37</cell>
+                     <cell>39</cell>
+                     <cell>14</cell>
+                     <cell>12</cell>
+                     <cell>26</cell>
+                     <cell>40</cell>
+                     <cell>44</cell>
+                     <cell>64</cell>
+                     <cell>20</cell>
+                     <cell>48</cell>
+                     <cell>54</cell>
+                     <cell>30</cell>
+                     <cell>275</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell role="label">Thrusk N.W.</cell>
+                     <cell>17</cell>
+                     <cell>37</cell>
+                     <cell>28</cell>
+                     <cell>42</cell>
+                     <cell>35</cell>
+                     <cell>7</cell>
+                     <cell>10</cell>
+                     <cell>25</cell>
+                     <cell>37</cell>
+                     <cell>20</cell>
+                     <cell>12</cell>
+                     <cell>10</cell>
+                     <cell>44</cell>
+                     <cell>40</cell>
+                     <cell>29</cell>
+                     <cell>29</cell>
+                     <cell>14</cell>
+                     <cell>32</cell>
+                     <cell>13</cell>
+                     <cell>23</cell>
+                     <cell>19</cell>
+                     <cell>10</cell>
+                     <cell>16</cell>
+                     <cell>7</cell>
+                     <cell>19</cell>
+                     <cell>19</cell>
+                     <cell>24</cell>
+                     <cell>41</cell>
+                     <cell>12</cell>
+                     <cell>7</cell>
+                     <cell>16</cell>
+                     <cell>22</cell>
+                     <cell>32</cell>
+                     <cell>13</cell>
+                     <cell>25</cell>
+                     <cell>29</cell>
+                     <cell>44</cell>
+                     <cell>14</cell>
+                     <cell>28</cell>
+                     <cell>24</cell>
+                     <cell>268</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell role="label">Skipton Ca: W</cell>
+                     <cell>30</cell>
+                     <cell>59</cell>
+                     <cell>51</cell>
+                     <cell>42</cell>
+                     <cell>28</cell>
+                     <cell>7</cell>
+                     <cell>10</cell>
+                     <cell>25</cell>
+                     <cell>36</cell>
+                     <cell>44</cell>
+                     <cell>34</cell>
+                     <cell>33</cell>
+                     <cell>58</cell>
+                     <cell>54</cell>
+                     <cell>38</cell>
+                     <cell>13</cell>
+                     <cell>38</cell>
+                     <cell>52</cell>
+                     <cell>16</cell>
+                     <cell>18</cell>
+                     <cell>40</cell>
+                     <cell>17</cell>
+                     <cell>18</cell>
+                     <cell>26</cell>
+                     <cell>11</cell>
+                     <cell>43</cell>
+                     <cell>38</cell>
+                     <cell>35</cell>
+                     <cell>14</cell>
+                     <cell>17</cell>
+                     <cell>24</cell>
+                     <cell>46</cell>
+                     <cell>55</cell>
+                     <cell>32</cell>
+                     <cell>32</cell>
+                     <cell>34</cell>
+                     <cell>35</cell>
+                     <cell>36</cell>
+                     <cell>27</cell>
+                     <cell>263</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell role="label">Pontfract. S.W</cell>
+                     <cell>16</cell>
+                     <cell>41</cell>
+                     <cell>29</cell>
+                     <cell>16</cell>
+                     <cell>10</cell>
+                     <cell>21</cell>
+                     <cell>33</cell>
+                     <cell>16</cell>
+                     <cell>11</cell>
+                     <cell>44</cell>
+                     <cell>28</cell>
+                     <cell>30</cell>
+                     <cell>34</cell>
+                     <cell>30</cell>
+                     <cell>14</cell>
+                     <cell>29</cell>
+                     <cell>33</cell>
+                     <cell>34</cell>
+                     <cell>17</cell>
+                     <cell>20</cell>
+                     <cell>28</cell>
+                     <cell>33</cell>
+                     <cell>35</cell>
+                     <cell>34</cell>
+                     <cell>17</cell>
+                     <cell>14</cell>
+                     <cell>20</cell>
+                     <cell>14</cell>
+                     <cell>20</cell>
+                     <cell>23</cell>
+                     <cell>40</cell>
+                     <cell>47</cell>
+                     <cell>44</cell>
+                     <cell>23</cell>
+                     <cell>9</cell>
+                     <cell>8</cell>
+                     <cell>17</cell>
+                     <cell>40</cell>
+                     <cell>240</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell role="label">Stokesley. N.</cell>
+                     <cell>27</cell>
+                     <cell>36</cell>
+                     <cell>41</cell>
+                     <cell>53</cell>
+                     <cell>48</cell>
+                     <cell>22</cell>
+                     <cell>17</cell>
+                     <cell>39</cell>
+                     <cell>50</cell>
+                     <cell>6</cell>
+                     <cell>16</cell>
+                     <cell>12</cell>
+                     <cell>48</cell>
+                     <cell>46</cell>
+                     <cell>39</cell>
+                     <cell>44</cell>
+                     <cell>12</cell>
+                     <cell>32</cell>
+                     <cell>27</cell>
+                     <cell>37</cell>
+                     <cell>21</cell>
+                     <cell>21</cell>
+                     <cell>23</cell>
+                     <cell>12</cell>
+                     <cell>33</cell>
+                     <cell>17</cell>
+                     <cell>30</cell>
+                     <cell>55</cell>
+                     <cell>27</cell>
+                     <cell>21</cell>
+                     <cell>19</cell>
+                     <cell>9</cell>
+                     <cell>27</cell>
+                     <cell>21</cell>
+                     <cell>35</cell>
+                     <cell>40</cell>
+                     <cell>57</cell>
+                     <cell>180</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell role="label">Sheffeild S. W.</cell>
+                     <cell>32</cell>
+                     <cell>55</cell>
+                     <cell>41</cell>
+                     <cell>14</cell>
+                     <cell>9</cell>
+                     <cell>36</cell>
+                     <cell>47</cell>
+                     <cell>23</cell>
+                     <cell>12</cell>
+                     <cell>61</cell>
+                     <cell>44</cell>
+                     <cell>47</cell>
+                     <cell>46</cell>
+                     <cell>43</cell>
+                     <cell>27</cell>
+                     <cell>23</cell>
+                     <cell>50</cell>
+                     <cell>49</cell>
+                     <cell>31</cell>
+                     <cell>21</cell>
+                     <cell>45</cell>
+                     <cell>44</cell>
+                     <cell>48</cell>
+                     <cell>48</cell>
+                     <cell>28</cell>
+                     <cell>50</cell>
+                     <cell>35</cell>
+                     <cell>5</cell>
+                     <cell>34</cell>
+                     <cell>38</cell>
+                     <cell>54</cell>
+                     <cell>63</cell>
+                     <cell>58</cell>
+                     <cell>39</cell>
+                     <cell>25</cell>
+                     <cell>21</cell>
+                     <cell>257</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell role="label">Snathe. S.</cell>
+                     <cell>13</cell>
+                     <cell>34</cell>
+                     <cell>20</cell>
+                     <cell>14</cell>
+                     <cell>16</cell>
+                     <cell>23</cell>
+                     <cell>36</cell>
+                     <cell>23</cell>
+                     <cell>10</cell>
+                     <cell>38</cell>
+                     <cell>25</cell>
+                     <cell>28</cell>
+                     <cell>26</cell>
+                     <cell>22</cell>
+                     <cell>7</cell>
+                     <cell>27</cell>
+                     <cell>25</cell>
+                     <cell>25</cell>
+                     <cell>21</cell>
+                     <cell>17</cell>
+                     <cell>24</cell>
+                     <cell>30</cell>
+                     <cell>40</cell>
+                     <cell>35</cell>
+                     <cell>23</cell>
+                     <cell>30</cell>
+                     <cell>15</cell>
+                     <cell>17</cell>
+                     <cell>21</cell>
+                     <cell>27</cell>
+                     <cell>39</cell>
+                     <cell>44</cell>
+                     <cell>38</cell>
+                     <cell>20</cell>
+                     <cell>4</cell>
+                     <cell>134</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell role="label">Selby. S.</cell>
+                     <cell>7</cell>
+                     <cell>31</cell>
+                     <cell>20</cell>
+                     <cell>18</cell>
+                     <cell>18</cell>
+                     <cell>19</cell>
+                     <cell>32</cell>
+                     <cell>22</cell>
+                     <cell>14</cell>
+                     <cell>38</cell>
+                     <cell>25</cell>
+                     <cell>24</cell>
+                     <cell>26</cell>
+                     <cell>22</cell>
+                     <cell>7</cell>
+                     <cell>26</cell>
+                     <cell>25</cell>
+                     <cell>25</cell>
+                     <cell>18</cell>
+                     <cell>15</cell>
+                     <cell>20</cell>
+                     <cell>30</cell>
+                     <cell>36</cell>
+                     <cell>31</cell>
+                     <cell>21</cell>
+                     <cell>26</cell>
+                     <cell>11</cell>
+                     <cell>21</cell>
+                     <cell>21</cell>
+                     <cell>23</cell>
+                     <cell>38</cell>
+                     <cell>41</cell>
+                     <cell>34</cell>
+                     <cell>15</cell>
+                     <cell>142</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell role="label">Sherifehutto<g ref="char:cmbAbbrStroke">̄</g> N.</cell>
+                     <cell>7</cell>
+                     <cell>26</cell>
+                     <cell>23</cell>
+                     <cell>33</cell>
+                     <cell>31</cell>
+                     <cell>13</cell>
+                     <cell>22</cell>
+                     <cell>27</cell>
+                     <cell>35</cell>
+                     <cell>20</cell>
+                     <cell>5</cell>
+                     <cell>9</cell>
+                     <cell>31</cell>
+                     <cell>27</cell>
+                     <cell>
+                        <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>8</cell>
+                     <cell>32</cell>
+                     <cell>10</cell>
+                     <cell>20</cell>
+                     <cell>17</cell>
+                     <cell>23</cell>
+                     <cell>8</cell>
+                     <cell>22</cell>
+                     <cell>28</cell>
+                     <cell>19</cell>
+                     <cell>13</cell>
+                     <cell>13</cell>
+                     <cell>11</cell>
+                     <cell>35</cell>
+                     <cell>19</cell>
+                     <cell>17</cell>
+                     <cell>29</cell>
+                     <cell>25</cell>
+                     <cell>24</cell>
+                     <cell>255</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell role="label">Scarborow N. E</cell>
+                     <cell>29</cell>
+                     <cell>12</cell>
+                     <cell>24</cell>
+                     <cell>9</cell>
+                     <cell>52</cell>
+                     <cell>35</cell>
+                     <cell>40</cell>
+                     <cell>50</cell>
+                     <cell>47</cell>
+                     <cell>25</cell>
+                     <cell>21</cell>
+                     <cell>22</cell>
+                     <cell>29</cell>
+                     <cell>29</cell>
+                     <cell>32</cell>
+                     <cell>56</cell>
+                     <cell>18</cell>
+                     <cell>12</cell>
+                     <cell>39</cell>
+                     <cell>45</cell>
+                     <cell>16</cell>
+                     <cell>43</cell>
+                     <cell>46</cell>
+                     <cell>34</cell>
+                     <cell>46</cell>
+                     <cell>12</cell>
+                     <cell>23</cell>
+                     <cell>55</cell>
+                     <cell>42</cell>
+                     <cell>38</cell>
+                     <cell>45</cell>
+                     <cell>24</cell>
+                     <cell>262</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell role="label">Skelto<g ref="char:cmbAbbrStroke">̄</g> Caſt. N.</cell>
+                     <cell>33</cell>
+                     <cell>34</cell>
+                     <cell>42</cell>
+                     <cell>38</cell>
+                     <cell>55</cell>
+                     <cell>29</cell>
+                     <cell>25</cell>
+                     <cell>46</cell>
+                     <cell>55</cell>
+                     <cell>3</cell>
+                     <cell>20</cell>
+                     <cell>17</cell>
+                     <cell>49</cell>
+                     <cell>47</cell>
+                     <cell>43</cell>
+                     <cell>51</cell>
+                     <cell>15</cell>
+                     <cell>31</cell>
+                     <cell>34</cell>
+                     <cell>44</cell>
+                     <cell>23</cell>
+                     <cell>29</cell>
+                     <cell>31</cell>
+                     <cell>20</cell>
+                     <cell>41</cell>
+                     <cell>17</cell>
+                     <cell>33</cell>
+                     <cell>60</cell>
+                     <cell>34</cell>
+                     <cell>20</cell>
+                     <cell>26</cell>
+                     <cell>2<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>0</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell role="label">Richemond. N. W</cell>
+                     <cell>33</cell>
+                     <cell>52</cell>
+                     <cell>52</cell>
+                     <cell>55</cell>
+                     <cell>45</cell>
+                     <cell>20</cell>
+                     <cell>7</cell>
+                     <cell>31</cell>
+                     <cell>50</cell>
+                     <cell>24</cell>
+                     <cell>27</cell>
+                     <cell>23</cell>
+                     <cell>60</cell>
+                     <cell>56</cell>
+                     <cell>45</cell>
+                     <cell>35</cell>
+                     <cell>27</cell>
+                     <cell>47</cell>
+                     <cell>23</cell>
+                     <cell>33</cell>
+                     <cell>34</cell>
+                     <cell>1<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                     <cell>6</cell>
+                     <cell>10</cell>
+                     <cell>26</cell>
+                     <cell>33</cell>
+                     <cell>40</cell>
+                     <cell>12</cell>
+                     <cell>20</cell>
+                     <cell>16</cell>
+                     <cell>203</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell role="label">Rippon. N. W.</cell>
+                     <cell>17</cell>
+                     <cell>43</cell>
+                     <cell>39</cell>
+                     <cell>39</cell>
+                     <cell>30</cell>
+                     <cell>5</cell>
+                     <cell>9</cell>
+                     <cell>18</cell>
+                     <cell>34</cell>
+                     <cell>26</cell>
+                     <cell>17</cell>
+                     <cell>16</cell>
+                     <cell>46</cell>
+                     <cell>42</cell>
+                     <cell>29</cell>
+                     <cell>23</cell>
+                     <cell>24</cell>
+                     <cell>36</cell>
+                     <cell>7</cell>
+                     <cell>18</cell>
+                     <cell>23</cell>
+                     <cell>7</cell>
+                     <cell>13</cell>
+                     <cell>11</cell>
+                     <cell>12</cell>
+                     <cell>26</cell>
+                     <cell>26</cell>
+                     <cell>37</cell>
+                     <cell>5</cell>
+                     <cell>265</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell role="label">Ripley. N. W.</cell>
+                     <cell>17</cell>
+                     <cell>44</cell>
+                     <cell>38</cell>
+                     <cell>36</cell>
+                     <cell>25</cell>
+                     <cell>7</cell>
+                     <cell>14</cell>
+                     <cell>13</cell>
+                     <cell>11</cell>
+                     <cell>31</cell>
+                     <cell>21</cell>
+                     <cell>20</cell>
+                     <cell>46</cell>
+                     <cell>42</cell>
+                     <cell>28</cell>
+                     <cell>17</cell>
+                     <cell>22</cell>
+                     <cell>38</cell>
+                     <cell>4</cell>
+                     <cell>13</cell>
+                     <cell>26</cell>
+                     <cell>10</cell>
+                     <cell>16</cell>
+                     <cell>16</cell>
+                     <cell>7</cell>
+                     <cell>29</cell>
+                     <cell>26</cell>
+                     <cell>32</cell>
+                     <cell>262</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell role="label">Rotheram. S.</cell>
+                     <cell>28</cell>
+                     <cell>50</cell>
+                     <cell>36</cell>
+                     <cell>10</cell>
+                     <cell>8</cell>
+                     <cell>34</cell>
+                     <cell>46</cell>
+                     <cell>23</cell>
+                     <cell>8</cell>
+                     <cell>18</cell>
+                     <cell>40</cell>
+                     <cell>43</cell>
+                     <cell>40</cell>
+                     <cell>36</cell>
+                     <cell>23</cell>
+                     <cell>23</cell>
+                     <cell>46</cell>
+                     <cell>44</cell>
+                     <cell>30</cell>
+                     <cell>20</cell>
+                     <cell>40</cell>
+                     <cell>42</cell>
+                     <cell>47</cell>
+                     <cell>47</cell>
+                     <cell>27</cell>
+                     <cell>46</cell>
+                     <cell>31</cell>
+                     <cell>124</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell role="label">Pocklington. SE</cell>
+                     <cell>10</cell>
+                     <cell>21</cell>
+                     <cell>13</cell>
+                     <cell>26</cell>
+                     <cell>29</cell>
+                     <cell>21</cell>
+                     <cell>32</cell>
+                     <cell>31</cell>
+                     <cell>24</cell>
+                     <cell>32</cell>
+                     <cell>15</cell>
+                     <cell>19</cell>
+                     <cell>20</cell>
+                     <cell>17</cell>
+                     <cell>10</cell>
+                     <cell>36</cell>
+                     <cell>19</cell>
+                     <cell>15</cell>
+                     <cell>23</cell>
+                     <cell>24</cell>
+                     <cell>11</cell>
+                     <cell>32</cell>
+                     <cell>38</cell>
+                     <cell>30</cell>
+                     <cell>28</cell>
+                     <cell>17</cell>
+                     <cell>245</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell role="label">Pickering. N. E</cell>
+                     <cell>20</cell>
+                     <cell>20</cell>
+                     <cell>25</cell>
+                     <cell>43</cell>
+                     <cell>43</cell>
+                     <cell>23</cell>
+                     <cell>27</cell>
+                     <cell>35</cell>
+                     <cell>40</cell>
+                     <cell>14</cell>
+                     <cell>8</cell>
+                     <cell>10</cell>
+                     <cell>33</cell>
+                     <cell>30</cell>
+                     <cell>26</cell>
+                     <cell>44</cell>
+                     <cell>6</cell>
+                     <cell>15</cell>
+                     <cell>27</cell>
+                     <cell>34</cell>
+                     <cell>7</cell>
+                     <cell>29</cell>
+                     <cell>24</cell>
+                     <cell>22</cell>
+                     <cell>34</cell>
+                     <cell>265</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell role="label">Oteley. W.</cell>
+                     <cell>19</cell>
+                     <cell>48</cell>
+                     <cell>40</cell>
+                     <cell>32</cell>
+                     <cell>20</cell>
+                     <cell>12</cell>
+                     <cell>20</cell>
+                     <cell>6</cell>
+                     <cell>27</cell>
+                     <cell>38</cell>
+                     <cell>26</cell>
+                     <cell>28</cell>
+                     <cell>47</cell>
+                     <cell>43</cell>
+                     <cell>28</cell>
+                     <cell>11</cell>
+                     <cell>30</cell>
+                     <cell>42</cell>
+                     <cell>7</cell>
+                     <cell>8</cell>
+                     <cell>31</cell>
+                     <cell>16</cell>
+                     <cell>20</cell>
+                     <cell>23</cell>
+                     <cell>133</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell role="label">Nor<hi rend="sup">th</hi> Allerto<g ref="char:cmbAbbrStroke">̄</g> N. W</cell>
+                     <cell>23</cell>
+                     <cell>42</cell>
+                     <cell>41</cell>
+                     <cell>48</cell>
+                     <cell>40</cell>
+                     <cell>13</cell>
+                     <cell>6</cell>
+                     <cell>29</cell>
+                     <cell>43</cell>
+                     <cell>17</cell>
+                     <cell>17</cell>
+                     <cell>13</cell>
+                     <cell>50</cell>
+                     <cell>47</cell>
+                     <cell>36</cell>
+                     <cell>33</cell>
+                     <cell>17</cell>
+                     <cell>36</cell>
+                     <cell>18</cell>
+                     <cell>28</cell>
+                     <cell>24</cell>
+                     <cell>9</cell>
+                     <cell>12</cell>
+                     <cell>257</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell role="label">Mydlam. N. W.</cell>
+                     <cell>30</cell>
+                     <cell>53</cell>
+                     <cell>51</cell>
+                     <cell>51</cell>
+                     <cell>34</cell>
+                     <cell>18</cell>
+                     <cell>7</cell>
+                     <cell>25</cell>
+                     <cell>46</cell>
+                     <cell>28</cell>
+                     <cell>27</cell>
+                     <cell>24</cell>
+                     <cell>59</cell>
+                     <cell>55</cell>
+                     <cell>43</cell>
+                     <cell>29</cell>
+                     <cell>28</cell>
+                     <cell>48</cell>
+                     <cell>19</cell>
+                     <cell>28</cell>
+                     <cell>34</cell>
+                     <cell>6</cell>
+                     <cell>177</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell role="label">Maſham. N W</cell>
+                     <cell>24</cell>
+                     <cell>48</cell>
+                     <cell>45</cell>
+                     <cell>45</cell>
+                     <cell>36</cell>
+                     <cell>11</cell>
+                     <cell>4</cell>
+                     <cell>22</cell>
+                     <cell>40</cell>
+                     <cell>26</cell>
+                     <cell>22</cell>
+                     <cell>20</cell>
+                     <cell>53</cell>
+                     <cell>49</cell>
+                     <cell>36</cell>
+                     <cell>26</cell>
+                     <cell>24</cell>
+                     <cell>42</cell>
+                     <cell>13</cell>
+                     <cell>23</cell>
+                     <cell>29</cell>
+                     <cell>172</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell role="label">Malton. N. E.</cell>
+                     <cell>14</cell>
+                     <cell>19</cell>
+                     <cell>20</cell>
+                     <cell>37</cell>
+                     <cell>37</cell>
+                     <cell>20</cell>
+                     <cell>28</cell>
+                     <cell>35</cell>
+                     <cell>34</cell>
+                     <cell>22</cell>
+                     <cell>7</cell>
+                     <cell>11</cell>
+                     <cell>27</cell>
+                     <cell>25</cell>
+                     <cell>20</cell>
+                     <cell>40</cell>
+                     <cell>9</cell>
+                     <cell>13</cell>
+                     <cell>24</cell>
+                     <cell>30</cell>
+                     <cell>157</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell role="label">Leedes. S. W.</cell>
+                     <cell>17</cell>
+                     <cell>45</cell>
+                     <cell>35</cell>
+                     <cell>24</cell>
+                     <cell>13</cell>
+                     <cell>16</cell>
+                     <cell>26</cell>
+                     <cell>7</cell>
+                     <cell>19</cell>
+                     <cell>41</cell>
+                     <cell>27</cell>
+                     <cell>28</cell>
+                     <cell>42</cell>
+                     <cell>38</cell>
+                     <cell>22</cell>
+                     <cell>11</cell>
+                     <cell>32</cell>
+                     <cell>39</cell>
+                     <cell>11</cell>
+                     <cell>242</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell role="label">Knaresburgh W</cell>
+                     <cell>14</cell>
+                     <cell>42</cell>
+                     <cell>35</cell>
+                     <cell>33</cell>
+                     <cell>23</cell>
+                     <cell>6</cell>
+                     <cell>16</cell>
+                     <cell>12</cell>
+                     <cell>27</cell>
+                     <cell>32</cell>
+                     <cell>19</cell>
+                     <cell>19</cell>
+                     <cell>43</cell>
+                     <cell>39</cell>
+                     <cell>24</cell>
+                     <cell>18</cell>
+                     <cell>23</cell>
+                     <cell>35</cell>
+                     <cell>260</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell role="label">Kellam. E</cell>
+                     <cell>23</cell>
+                     <cell>8</cell>
+                     <cell>12</cell>
+                     <cell>38</cell>
+                     <cell>43</cell>
+                     <cell>33</cell>
+                     <cell>41</cell>
+                     <cell>45</cell>
+                     <cell>37</cell>
+                     <cell>32</cell>
+                     <cell>20</cell>
+                     <cell>23</cell>
+                     <cell>18</cell>
+                     <cell>17</cell>
+                     <cell>22</cell>
+                     <cell>50</cell>
+                     <cell>20</cell>
+                     <cell>254</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell role="label">Kyrby <hi>Moreſide.</hi> N E.</cell>
+                     <cell>8</cell>
+                     <cell>25</cell>
+                     <cell>28</cell>
+                     <cell>44</cell>
+                     <cell>41</cell>
+                     <cell>18</cell>
+                     <cell>22</cell>
+                     <cell>35</cell>
+                     <cell>40</cell>
+                     <cell>14</cell>
+                     <cell>5</cell>
+                     <cell>4</cell>
+                     <cell>36</cell>
+                     <cell>33</cell>
+                     <cell>17</cell>
+                     <cell>40</cell>
+                     <cell>170</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell role="label">Hallifax. S. W.</cell>
+                     <cell>28</cell>
+                     <cell>57</cell>
+                     <cell>46</cell>
+                     <cell>31</cell>
+                     <cell>18</cell>
+                     <cell>23</cell>
+                     <cell>30</cell>
+                     <cell>6</cell>
+                     <cell>26</cell>
+                     <cell>49</cell>
+                     <cell>36</cell>
+                     <cell>36</cell>
+                     <cell>33</cell>
+                     <cell>49</cell>
+                     <cell>32</cell>
+                     <cell>152</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell role="label">Howden. S. E.</cell>
+                     <cell>13</cell>
+                     <cell>28</cell>
+                     <cell>14</cell>
+                     <cell>18</cell>
+                     <cell>22</cell>
+                     <cell>24</cell>
+                     <cell>38</cell>
+                     <cell>28</cell>
+                     <cell>16</cell>
+                     <cell>41</cell>
+                     <cell>23</cell>
+                     <cell>27</cell>
+                     <cell>20</cell>
+                     <cell>16</cell>
+                     <cell>137</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell role="label">Hull. S. E.</cell>
+                     <cell>28</cell>
+                     <cell>10</cell>
+                     <cell>5</cell>
+                     <cell>27</cell>
+                     <cell>38</cell>
+                     <cell>38</cell>
+                     <cell>50</cell>
+                     <cell>44</cell>
+                     <cell>28</cell>
+                     <cell>47</cell>
+                     <cell>31</cell>
+                     <cell>35</cell>
+                     <cell>4</cell>
+                     <cell>135</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell role="label">Headon. S. E</cell>
+                     <cell>30</cell>
+                     <cell>19</cell>
+                     <cell>9</cell>
+                     <cell>31</cell>
+                     <cell>38</cell>
+                     <cell>41</cell>
+                     <cell>52</cell>
+                     <cell>48</cell>
+                     <cell>32</cell>
+                     <cell>49</cell>
+                     <cell>33</cell>
+                     <cell>38</cell>
+                     <cell>139</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell role="label">Helmeſley. N</cell>
+                     <cell>16</cell>
+                     <cell>29</cell>
+                     <cell>30</cell>
+                     <cell>42</cell>
+                     <cell>38</cell>
+                     <cell>14</cell>
+                     <cell>18</cell>
+                     <cell>31</cell>
+                     <cell>38</cell>
+                     <cell>15</cell>
+                     <cell>4</cell>
+                     <cell>202</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell role="label">Houingha<g ref="char:cmbAbbrStroke">̄</g> N E</cell>
+                     <cell>13</cell>
+                     <cell>25</cell>
+                     <cell>26</cell>
+                     <cell>39</cell>
+                     <cell>36</cell>
+                     <cell>15</cell>
+                     <cell>21</cell>
+                     <cell>31</cell>
+                     <cell>35</cell>
+                     <cell>18</cell>
+                     <cell>259</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell role="label">Gisborow N.</cell>
+                     <cell>31</cell>
+                     <cell>35</cell>
+                     <cell>41</cell>
+                     <cell>58</cell>
+                     <cell>53</cell>
+                     <cell>26</cell>
+                     <cell>23</cell>
+                     <cell>33</cell>
+                     <cell>52</cell>
+                     <cell>183</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell role="label">Doucaſter S. W</cell>
+                     <cell>23</cell>
+                     <cell>43</cell>
+                     <cell>28</cell>
+                     <cell>6</cell>
+                     <cell>11</cell>
+                     <cell>31</cell>
+                     <cell>43</cell>
+                     <cell>25</cell>
+                     <cell>127</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell role="label">Bradforth . S. W</cell>
+                     <cell>23</cell>
+                     <cell>51</cell>
+                     <cell>42</cell>
+                     <cell>30</cell>
+                     <cell>16</cell>
+                     <cell>18</cell>
+                     <cell>25</cell>
+                     <cell>252</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell role="label">Bedall N W</cell>
+                     <cell>25</cell>
+                     <cell>46</cell>
+                     <cell>45</cell>
+                     <cell>48</cell>
+                     <cell>38</cell>
+                     <cell>13</cell>
+                     <cell>175</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell role="label">Burrowbridge N W</cell>
+                     <cell>13</cell>
+                     <cell>38</cell>
+                     <cell>34</cell>
+                     <cell>36</cell>
+                     <cell>28</cell>
+                     <cell>262</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell role="label">Barneſley. S. W</cell>
+                     <cell>24</cell>
+                     <cell>50</cell>
+                     <cell>36</cell>
+                     <cell>15</cell>
+                     <cell>136</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell role="label">Bawtre. S.</cell>
+                     <cell>27</cell>
+                     <cell>45</cell>
+                     <cell>29</cell>
+                     <cell>123</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell role="label">Beuerley. S. E</cell>
+                     <cell>22</cell>
+                     <cell>16</cell>
+                     <cell>140</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell role="label">Bridlington. W</cell>
+                     <cell>30</cell>
+                     <cell>165</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <figure>
+                  <figDesc>map of Northeast England</figDesc>
+                  <p>The Germaine Oceane</p>
+                  <p>Newcasſtle</p>
+                  <p>Durham</p>
+                  <p>Lancaſter</p>
+                  <p>Lancastria Pars</p>
+                  <p>York</p>
+                  <p>Cheſter</p>
+                  <figure>
+                     <figDesc>calipers with map scale</figDesc>
+                  </figure>
+               </figure>
+            </p>
+         </div>
+         <div type="list_of_engravings">
+            <pb n="158" facs="tcp:153462:2" rendition="simple:additions"/>
+            <head>☞ Five Hundred New ſo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ts of Birds, Beaſts, Fiſh, Flies, Wormes, Flowers, Fruites, Figures, Hiſtories, Landskips, Ovals, Neately cut in Copper, and neatly coloured, for Gentlewomens works, and he is a doing more as faſt as time will permit.</head>
+            <p>A New book of large Beaſts and Flowers <hi>W. Hol<g ref="char:EOLhyphen"/>ler</hi> invented, and ſculp. 12 <hi>Plates.</hi>
+            </p>
+            <p>Hunting, Hauking and fiſhing according to the Engliſh manner, <hi>F. Ba<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>low</hi> invented, <hi>W. Holler ſculp. 13. Plates.</hi> A book of Flowe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s <hi>Peter Williams ſculp. 6 plates.</hi> A book of Flowers and fiſh, <hi>W. Holler ſculp. 13. Plates.</hi> A book of Landskips, <hi>W. Holler 12. Plates.</hi>
+            </p>
+            <p>2. Books of Landskips, <hi>W. Holler 16. Plates</hi> a peice.</p>
+            <p>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. Book of the proſpect of <hi>London. W. Holler 6 Plates.</hi>
+            </p>
+            <p>A book of <hi>Tangeere, W. Holler 6 Plates.</hi> A book of <hi>Anticks, W. Holler 25 Plates</hi> Scripture, Hiſtories, by <hi>W. Holler, 4 Plates.</hi> The Cathedrals and Conventual Churches of <hi>England</hi> and <hi>Wales, D. King delin. 82 plates</hi> A book of <hi>Flora 13 Plates.</hi> A book of Flowers, Beaſts, Birds, and Fruits, in three parts, 20 leaves in each part, A new book of Flowers, Beaſts, Birds, Invented and drawn wholly by <hi>J. Dunſtal.</hi> A book of 6 Plates for T<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>chers, <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Leaves.</hi> A book of Branches, Slips, Flies &amp;c. 8 <hi>Plates.</hi> A book of beaſts, 18 <hi>Plates.</hi>
+            </p>
+            <p>A book of Slips, 12 <hi>Plates.</hi>
+            </p>
+            <p>A book of Flower<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, Branches, 12 <hi>Plates.</hi>
+            </p>
+            <p>A book of bi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ds, 8 <hi>Plates.</hi>
+            </p>
+            <p>A book of Birds, <hi>F Barlo</hi> Inventor, and Etch'd by Mr. <hi>Barlo</hi> and <hi>W. Hollar. 21 Plates.</hi>
+            </p>
+            <div type="part">
+               <head>
+                  <hi>Copy-Books by</hi> E. Cocker.</head>
+               <p>THe Pen-mans Recreation, with Additions of Court and Chancery; by <hi>James Hodder, 32 Plates Folio, Edwad Cocker Sculpt.</hi>
+               </p>
+               <p>The uſual hands of <hi>England,</hi> in Octavo, 16 <hi>Plates,</hi> publi<g ref="char:EOLhyphen"/>ſhed by <hi>P. S. Billingſley</hi> in <hi>Quarto, 17 Plates</hi>
+               </p>
+               <p>
+                  <hi>Billingſley</hi> in Octa. 22 <hi>Leaves.</hi> A ſmall book, by <hi>Luis Hues.</hi>
+               </p>
+               <p>One with a man writing in the front <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>2 <hi>Plates.</hi>
+               </p>
+               <p>
+                  <hi>Johnſon</hi>'s, with Additions by <hi>E. C 21 Plates.</hi>
+               </p>
+               <p>Arts Glory, or, The Pen-man's Treaſury, containing the uſual Hands written in <hi>England,</hi> adorned with Knots, &amp;c. Invented, Written and Engraven by <hi>Edward Cocker.</hi>
+               </p>
+               <p>Mr. <hi>Cocker's</hi> two large pieces, in Knots.</p>
+               <p>3 Plates of, <hi>This Indenture,</hi> for Parchments.</p>
+               <p>The Pen's Treaſury, containing ſeveral Directions for the Art of Writing, and writing true Engliſh; being divers Experiments, commended to ſuch as uſe Pen or Penſil, by <hi>J. Fiſher.</hi> With other ſorts of Copies and Copy-books, &amp;c.</p>
+               <p>A book of Compartiments and Shields, 12 <hi>Plates</hi> new.</p>
+               <p>A book of the Seven Liberal Arts or Sciences, 8 <hi>Plates, Peter Lumber Sculpt.</hi>
+               </p>
+               <p>
+                  <hi>Fage</hi> his Deſcription of the World, in <hi>Octavo.</hi>
+               </p>
+               <p>Bonds, Bills, Releaſes, Letters of Attorney &amp;c. 20 ſorts Letters and flouriſhes for Scriveners and Writing Maſters 12 ſorts.</p>
+               <p>Indentures to bind Apprentices in City or Countrey.</p>
+               <p>
+                  <hi>Bloomerts</hi> heads excellent to draw after.</p>
+            </div>
+            <div type="part">
+               <head>Books in Half-Sheets.</head>
+               <p>THe four Seaſon of the Year, <hi>W. Hollar fecit.</hi>
+               </p>
+               <p>The four Seaſons of the Year, <hi>G. Glover ſculpt.</hi>
+               </p>
+               <p>The five Senſes, <hi>Mermion</hi> Inventer.</p>
+               <p>The five Senſes, <hi>Glover ſculpt.</hi>
+               </p>
+               <p>The four quarters of the World.</p>
+               <p>The four Complexions, in habits of 4 Nations.</p>
+               <p>The four Elements, <hi>Fire, Aire, Earth</hi> and <hi>Water.</hi>
+               </p>
+               <p>The four times of the day.</p>
+               <p>The nine Worthies, <hi>viz</hi> three <hi>Jews,</hi> three <hi>Chriſtians</hi> and three <hi>Heathens.</hi>
+               </p>
+               <p>The four Ages, <hi>viz.</hi> Childhood, Youth, Manhood, and Old Age.</p>
+               <p>The four Fathers of the Church.</p>
+               <p>The four Winds The four Vertues.</p>
+               <p>The four Complexions, <hi>Long and lazie, Little and loud,</hi> &amp;c.</p>
+               <p>The three Graces.</p>
+               <p>The twelve Sybils that Propheſied of Chriſt.</p>
+               <p>The twelve <hi>Roman</hi> Emperors.</p>
+               <p>Thirty plates, Heads in ſheets, Kings, Philoſophers, and eminent perſons.</p>
+               <p>Drawing book, being uſeful for to teach to Draw, Etch Paint, &amp;c.</p>
+               <p>A Drawing book, of <hi>W. Hollar's,</hi> and <hi>Henry Vanderborghts</hi> defining, &amp;c. 12 Plates.</p>
+               <p>One book of <hi>Crotiizco, 10 Plates.</hi> Folio long-wiſe, <hi>Francis clia</hi> Inventer and Engraver.</p>
+               <p>One book containing 14 Plates of Heathen gods.</p>
+               <p>Two books of <hi>Clin's</hi> for Carvers, Goldſmiths, &amp;c. 25 <hi>Plates.</hi>
+               </p>
+               <p>Twelve Plates of Boys and branches, &amp;c.</p>
+               <p>A book of merry conceited 5 ſenſes, 6 plates.</p>
+               <p>A book of the Arms of the Nobility of <hi>Cheſter. 12 plates.</hi>
+               </p>
+               <p>A book of fire works 12 <hi>plates.</hi>
+               </p>
+               <p>A book of Countrey Churches, 20 plates</p>
+               <p>The four Seaſons in a Diamond cut, with Winters head covered with Carots.</p>
+               <p>The four parts of the world after the ſame manner.</p>
+               <p>The five Senſes in rounds for Screens.</p>
+            </div>
+            <div type="part">
+               <head>Small Maps of Countries.</head>
+               <p>
+                  <hi>KEnt. Weſtminſter.</hi>
+               </p>
+               <p>
+                  <hi>Eſſex.</hi>
+               </p>
+               <p>
+                  <hi>Surrey.</hi>
+               </p>
+               <p>
+                  <hi>Hanford ſhire</hi>
+               </p>
+               <p>
+                  <hi>Middleſex</hi>
+               </p>
+               <p>
+                  <hi>England</hi> and <hi>Scotland</hi>
+               </p>
+               <p>
+                  <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> ſmall Maps of the World.</p>
+               <p>
+                  <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>arter of the World. <hi>viz. America.</hi>
+               </p>
+               <p>
+                  <hi>Oxford ſhire.</hi>
+               </p>
+               <p>
+                  <hi>B<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rkſhire.</hi>
+               </p>
+               <p>
+                  <hi>Buckingham-ſhire.</hi>
+               </p>
+               <p>
+                  <hi>Gloceſter-ſhire.</hi>
+               </p>
+               <p>
+                  <hi>Cheſter.</hi>
+               </p>
+               <p>
+                  <hi>Iſle of Man.</hi>
+               </p>
+               <p>
+                  <hi>Candia.</hi>
+               </p>
+               <p>
+                  <hi>London.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Large Maps, General and Particular.</head>
+               <p>TWo Maps of the World.</p>
+               <p>Two Maps of <hi>England.</hi>
+               </p>
+               <p>Foor plats of <hi>England, Scotland</hi> and <hi>Ireland;</hi> very uſeful for Geography and Ornament.</p>
+               <p>One Map of <hi>France.</hi>
+               </p>
+               <p>One Map of <hi>Ireland.</hi>
+               </p>
+               <p>One Map of <hi>Verginia.</hi>
+               </p>
+               <p>Two plats of <hi>Kent.</hi>
+               </p>
+               <p>
+                  <hi>Spain.</hi>
+               </p>
+               <p>
+                  <hi>Italy.</hi>
+               </p>
+               <p>
+                  <hi>Flanders.</hi>
+               </p>
+               <p>
+                  <hi>Germany.</hi>
+               </p>
+               <p>
+                  <hi>Eſſex.</hi>
+               </p>
+               <p>
+                  <hi>Surrey.</hi>
+               </p>
+               <p>
+                  <hi>Hartſordſhire.</hi>
+               </p>
+               <p>
+                  <hi>Northamptonſhire.</hi>
+               </p>
+               <p>
+                  <hi>Norfolk.</hi>
+               </p>
+               <p>
+                  <hi>Suffolk.</hi>
+               </p>
+               <p>
+                  <hi>Lancaſhire. Suſſex.</hi>
+               </p>
+               <p>
+                  <hi>Warwickſhire.</hi>
+               </p>
+               <p>
+                  <hi>Worceſterſhire,</hi>
+               </p>
+               <p>
+                  <hi>Leiceſterſhire.</hi>
+               </p>
+               <p>
+                  <hi>Rutlandſhire.</hi>
+               </p>
+               <p>
+                  <hi>Cheſhire.</hi>
+               </p>
+               <p>
+                  <hi>Staffordſhire.</hi>
+               </p>
+               <p>
+                  <hi>Suſſex</hi>
+               </p>
+               <p>
+                  <hi>Somerſet.</hi>
+               </p>
+               <p>
+                  <hi>Barks.</hi>
+               </p>
+               <p>
+                  <hi>Kent.</hi>
+               </p>
+               <p>
+                  <hi>Old London</hi>
+               </p>
+               <p>
+                  <hi>New London.</hi>
+               </p>
+               <p>The four parts of the World, with or without deſcription never ſo fully done before in <hi>England,</hi> with habits of Nations and cheif Cities.</p>
+               <p>
+                  <hi>Oxford. Cambridge. Cheſter.</hi>
+               </p>
+               <p>Views upon the Road.</p>
+               <p>
+                  <hi>London</hi> in its ruine.</p>
+               <p>A famous Map of the <hi>Royal Exchange,</hi> as it is now rebuilt, 1672. Deſcribed by Mr. <hi>Thomas Cartwright.</hi> Maſter builder thereof.</p>
+               <p>A Map of <hi>Newcaſtle</hi> upon <hi>Tyne,</hi> and the River of <hi>Tyne.</hi>
+               </p>
+               <p>A New Map of Great <hi>Brittain.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Books of Sorts.</head>
+               <p>TWo books of Landskips, ſix in each book, 12 <hi>plats.</hi>
+               </p>
+               <p>One book of Mr. <hi>Fullers</hi> Drawing-book 15 <hi>plats.</hi>
+               </p>
+               <p>Forty Plats of the Hiſtory of <hi>Genuiſes.</hi>
+               </p>
+               <p>Twenty five plats of ſeveral <hi>Engliſh</hi> Habits, <hi>Vandike Pixit.</hi>
+               </p>
+               <p>Twenty five <hi>Plats</hi> of a Horn-book, to teach Children to Read and Write.</p>
+               <p>Twelve Emblems.</p>
+               <p>Fifty plats of Habits, <hi>W. Hollars</hi> Work.</p>
+               <p>A <hi>Dutch</hi> Drawing-book, 18 plats.</p>
+               <p>
+                  <hi>Crotizco</hi> for Painters, &amp;c. 12 plats.</p>
+               <p>Copies after Sir <hi>Anthony Vandike.</hi>
+               </p>
+               <p>Six Emblems, <hi>W. Marſhal Sculpt.</hi>
+               </p>
+               <p>Eighteen plats, <hi>Hollars</hi> Habits.</p>
+               <p>Twelve plats of <hi>Peirce</hi> his Foldage, in Quarto,</p>
+               <p>Twelve Figures of <hi>Colot's.</hi>
+               </p>
+               <p>Ten plats, <hi>Hollar's</hi> Emblems.</p>
+               <p>Ffteen plats of the Apoſtles.</p>
+               <p>Ten plats of Kings of <hi>Scotland.</hi>
+               </p>
+               <p>
+                  <hi>Leonardy</hi> his Drawing-Book, 26 <hi>plats.</hi>
+               </p>
+               <p>Five plats for Mantlings for Arms.</p>
+               <p>Nine plats for Goldſmiths.</p>
+               <p>Twenty plats of the Military Diſcipline, for the Exerciſe of a Foot-Company.</p>
+               <p>Twenty ſix plats of the Kings Heads in a book.</p>
+            </div>
+            <div type="part">
+               <head>In Sheets, Pot-paper Size.</head>
+               <p>ONe Book of the Four Seaſons, after <hi>Hollars.</hi>
+               </p>
+               <p>One book containig four plats, <hi>viz. The Tower of London, the Piatza, St. Mary-Overs,</hi> and <hi>The Royal Ex<g ref="char:EOLhyphen"/>change.</hi>
+               </p>
+               <p>Indentures for to bind Apprentices.</p>
+               <p>Four plats of the twelve Apoſtles.</p>
+               <p>Twenty two plats of five Columes, for Maſons, Carvers, Artiſts, any that uſe Hammer or Hand.</p>
+            </div>
+            <div type="part">
+               <head>Pictures lately Printed in Sheets.</head>
+               <p>QUeen <hi>Elizabeth.</hi>
+               </p>
+               <p>King <hi>James</hi> and Queen <hi>Anne.</hi>
+               </p>
+               <p>King <hi>Charles</hi> the Firſt, and Queen <hi>Mary</hi>
+               </p>
+               <p>King <hi>Charles</hi> the ſecond, and <hi>Queen Katherine.</hi>
+               </p>
+               <p>Two other ſorts of the King.</p>
+               <p>Duke of <hi>York.</hi>
+               </p>
+               <p>Duke of <hi>Gloceſter.</hi>
+               </p>
+               <p>Prince of <hi>Orange</hi> and Princes Royal.</p>
+               <p>Emperor of <hi>Germany.</hi>
+               </p>
+               <p>Duke of <hi>Albemarl.</hi>
+               </p>
+               <p>Earle of <hi>Pembroke.</hi>
+               </p>
+               <p>Earl of <hi>Arundel.</hi>
+               </p>
+               <p>Prince <hi>Rupert.</hi>
+               </p>
+               <p>Duke of <hi>Lenox.</hi>
+               </p>
+               <p>Duke <hi>Hambleton.</hi>
+               </p>
+               <p>Earl of <hi>Eſſex.</hi>
+               </p>
+               <p>Lord <hi>Fairfax.</hi>
+               </p>
+               <p>Earl of <hi>Holland.</hi>
+               </p>
+               <p>Royal Oak.</p>
+               <p>Alſo in ſmaller Size, the Pourtraictures of King <hi>James</hi> Queen <hi>Anne,</hi> King <hi>Charles</hi> the Firſt, and Second, and their Queens, with the Dukes of <hi>York</hi> and <hi>Gloceſter,</hi> and the reſt of the Royal Family; to be ſet by name, &amp;c.</p>
+            </div>
+            <div type="part">
+               <head>Large Plats for Royal Paper.</head>
+               <p>TWo Companies Arms.</p>
+               <p>Two Tradeſmens Arms, and the Arms of the Cities.</p>
+               <p>Two plats of the City <hi>Jeruſalem.</hi>
+               </p>
+               <p>Two plats of the Ten Commandements, large.</p>
+               <p>Three plats for Signes, Badges, for Inns, Taverns</p>
+               <p>One plat of Death.</p>
+               <p>One plat of Dr. <hi>Pennargus,</hi>
+               </p>
+               <p>Two plats of King <hi>Charles</hi> 2. on Horſeback.</p>
+               <p>
+                  <hi>Maps</hi> ſmall and large, of Flowers, Beaſts and Birds, in Colours.</p>
+               <p>The Duke of <hi>York</hi> in his Robes, <hi>R White Sculp.</hi>
+               </p>
+               <p>
+                  <hi>St. Pauls</hi> Church very large, with the Spie<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, and every part meaſured with a Scale.</p>
+               <p>Three ſorts of Sheets for Badges.</p>
+               <p>A large Flower pot.</p>
+               <p>The Childs Horn-book in one large ſheet.</p>
+               <p>
+                  <hi>Eliſha</hi> fed by the Ravens, and the four Elements.</p>
+               <p>Special Remedies for moſt Diſeaſes incident to a Horſe.</p>
+               <p>A Table of all the Kings of <hi>England,</hi> from <hi>William</hi> the Conqueror to King <hi>Charles</hi> the Second.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>The Pourtractures of Emperors, Kings, and Princes of Europe; Graven by</hi> Sed<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ak Willians.</head>
+               <p>
+                  <hi>CHarles</hi> the Second King of <hi>England,</hi> &amp;c. and Queen <hi>Katharine.</hi>
+               </p>
+               <p>
+                  <hi>Lewis</hi> the 14 <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>h</hi> King of <hi>France,</hi> and his Queen.</p>
+               <p>
+                  <hi>Philip</hi> Heir o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>France,</hi> and his Princeſs <hi>Henrietta,</hi> Siſter to <hi>Charls</hi> the Second King of <hi>England.</hi>
+               </p>
+               <p>Duke of <hi>Savoy</hi> and his Dutcheſs.</p>
+               <p>King of <hi>Denmark, Frederick</hi> the <hi>3d.</hi>
+               </p>
+               <p>
+                  <hi>Philip the 4th</hi> King of <hi>Spain,</hi> &amp;c.</p>
+               <p>
+                  <hi>Charls Guſtavus</hi> King of <hi>Sweden.</hi>
+               </p>
+               <p>
+                  <hi>Elinor</hi> preſent Queen of <hi>Sweden.</hi>
+               </p>
+               <p>
+                  <hi>Chriſtian</hi> Queen of <hi>Sweden,</hi> &amp;c.</p>
+               <p>The pourtraictures of the laſt and preſent Emperors of <hi>Germany.</hi>
+               </p>
+               <p>The great Duke of <hi>Moſcovy</hi> &amp;c.</p>
+               <p>
+                  <hi>Mahomet</hi> the <hi>4th.</hi> Emperor of the <hi>Turks.</hi>
+               </p>
+               <p>
+                  <hi>Atrabantas Magnus Tartarie Emperator Orcan Perſarum, Rex.</hi>
+               </p>
+               <p>
+                  <hi>William</hi> Prince of <hi>Orange.</hi>
+               </p>
+               <p>
+                  <hi>Fredericus</hi> Marquis of <hi>Brandenburgh,</hi> High Treaſurer of the Empire of <hi>Germany.</hi>
+               </p>
+               <p>
+                  <hi>Geo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ge</hi> Duke of <hi>Saxony,</hi> Elector of the <hi>Roman</hi> Empire.</p>
+               <p>
+                  <hi>George Ragoezy,</hi> prince of <hi>Tranſilvania, Moldavia,</hi> &amp;c.</p>
+               <p>The pourtraicture of the King of <hi>Portugal, Alphonſo</hi> the <hi>4th.</hi> of that name, &amp;c.</p>
+               <p>The pourtraicture of <hi>Lewis de Harrce,</hi> great Favourite of <hi>Spain,</hi> and Cardinal <hi>Mazarin</hi> great favourite of th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> King of <hi>France.</hi>
+               </p>
+               <p>
+                  <hi>Guſtavus Adolphus,</hi> King of <hi>Sweden.</hi>
+               </p>
+               <p>
+                  <hi>Frederick</hi> prince of <hi>Orange.</hi>
+               </p>
+               <p>
+                  <hi>Leopald William,</hi> Arch-Duke and Governor of the <hi>Low-Countries.</hi>
+               </p>
+               <p>Duke of <hi>Venice.</hi>
+               </p>
+               <p>
+                  <hi>Sigiſmund</hi> King of <hi>Poland.</hi>
+               </p>
+               <p>
+                  <hi>Caſſimere</hi> King of <hi>Poland.</hi>
+               </p>
+               <p>Black Prince.</p>
+               <p>
+                  <hi>Frederick</hi> King of <hi>Bohemia,</hi> with his Queen <hi>Elizabeth.</hi>
+               </p>
+               <p>Duke of <hi>Brunſwick.</hi>
+               </p>
+               <p>Prince <hi>Charls</hi> Count palatine of the <hi>Rhine.</hi>
+               </p>
+               <p>Prince <hi>Rupert.</hi>
+               </p>
+               <p>The pourtraictures of King <hi>Charls</hi> the Firſt and Second, King <hi>James,</hi> Queen <hi>Elizabeth,</hi> Queen <hi>Mary, Ed<g ref="char:EOLhyphen"/>ward 6th. Henry 8th. Henry 6th. James</hi> the <hi>4th.</hi> King of <hi>Scotland.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Pictures, and of Sorts in Royal Paper.</head>
+               <p>TWo plats of the King and Queen, <hi>P. William ſculpt.</hi> large.</p>
+               <p>Two ſmaller of the King and Queen.</p>
+               <p>One large King after <hi>Hannyman.</hi>
+               </p>
+               <p>One Kings Arms, <hi>J Dunſtal fecit.</hi>
+               </p>
+               <p>One plat of <hi>Orpheus, F. Barlo</hi> Inventer.</p>
+               <p>One plat of <hi>Hercules.</hi>
+               </p>
+               <p>One plat of <hi>Deborah.</hi>
+               </p>
+               <p>Three plats of Cats heads, Grey, Black, and White.</p>
+               <p>One picture of the Author of printing at the Rouling-preſs.</p>
+               <p>One plat of <hi>Cupid</hi> and <hi>Venus.</hi>
+               </p>
+               <p>One Ship of <hi>Hollars.</hi>
+               </p>
+               <p>One of <hi>Hollars</hi> Landskips, a Head.</p>
+               <p>One plat of the Boy lying along.</p>
+               <p>Two plats of two Cats.</p>
+               <p>Two plats of <hi>Grenidge.</hi>
+               </p>
+               <p>Four plats, the Originals after <hi>Vandikes,</hi> Prince Infanto, Prince Elector, Earl of <hi>Northumberland,</hi> and Madam <hi>Killigrew.</hi>
+               </p>
+               <p>Sir <hi>Anthony Vandik<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi>
+               </p>
+               <p>One plat of the two Brothers, <hi>Lucas</hi> and <gap reason="illegible" resp="#UOM" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap>lius.</p>
+               <p>One plat of Mrs. <hi>Margaret Lemon.</hi>
+               </p>
+               <p>Madam Counteſs of <hi>Portland.</hi>
+               </p>
+               <p>Dutcheſs of <hi>Buckingham.</hi>
+               </p>
+               <p>Lady <hi>Vandike.</hi>
+               </p>
+               <p>Sir <hi>K<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nelm Digby.</hi>
+               </p>
+               <p>Sir <hi>Peter Paul Rewbin.</hi>
+               </p>
+               <p>
+                  <hi>John Guttenberg.</hi>
+               </p>
+               <p>
+                  <hi>Theophraſtus Bumbaſtus, Paracelſus</hi> his Taylor.</p>
+               <p>Small peices of the King, Queen, Princeſs. Dukes o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>York, Gloceſter, Albemarl,</hi> Royal Oak<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, Healing the Kings Evil, and ſuch like, 12 plats, for to adorn To<g ref="char:EOLhyphen"/>bacco-boxes, much in uſe.</p>
+               <p>Eighteen plats double heads, King <hi>Charls</hi> the Firſt and Second, Dukes, Earls, Nobles, &amp;c.</p>
+               <p>Fifty plats of Kings, Queens, Dukes, Princes, Nobles, and Gentry, on Horſeback; of ſorts.</p>
+            </div>
+            <div type="part">
+               <head>Plats, Heads, of Kings and Princes.</head>
+               <p>KIng <hi>Charls,</hi> Firſt and Second, Dukes of <hi>York, Glo<g ref="char:EOLunhyphen"/>ceſter, Buckingham, Albemarl;</hi> Marquis of <hi>Montroſs, Robert</hi> Earl of <hi>Eſſex,</hi> Viſcount <hi>Knowles,</hi> Lord <hi>Fairfax,</hi> Earl of <hi>Cumberland,</hi> Earl of <hi>Arundel,</hi> Lord <hi>Bacon,</hi> Earl of <hi>Worceſter,</hi> Mr. <hi>Prynn,</hi> Great <hi>Oxaſtern</hi> Chancellor of <hi>Sweden, Whiltington</hi> Lord Mayor of <hi>London, Edward Sommerſet</hi> Earl of <hi>Worceſter,</hi> Earl of <hi>Strafford</hi> Deputy of <hi>Ireland, William</hi> and <hi>Philip</hi> Earls of <hi>Pensbrook, Cavindiſh</hi> Earl of <hi>Newcaſtle,</hi> Sir <hi>Thomas Griſham</hi> the Builder of the <hi>Royal Exchange,</hi> Sir <hi>William Cecil</hi> Builder of the <hi>Exchange</hi> in the <hi>S<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>and,</hi> Lord <hi>Coventry</hi> Lord Keeper of the Great Seal, Sir <hi>Francis Drake,</hi> Earl of <hi>Lindſey</hi> Lord General of the Kings Army, ſlain at <hi>Kinton</hi> Battel; Earls of <hi>Dorſet, War<g ref="char:EOLhyphen"/>wick, Denby, Mancheſter, Bulſtroud Whitlock, &amp;c.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Clergy-men.</head>
+               <p>BIſhop <hi>Abot</hi> Archbiſhop of <hi>Canterbury.</hi>
+               </p>
+               <p>Biſhop <hi>Curle</hi> Biſhop of <hi>Wincheſter.</hi>
+               </p>
+               <p>
+                  <hi>John Howſon</hi> Biſhop of <hi>Durham.</hi>
+               </p>
+               <p>
+                  <hi>Lancelot Andrews</hi> Biſhop of <hi>Ely.</hi>
+               </p>
+               <p>
+                  <hi>James Uſher</hi> Archbiſhop of <hi>Armagh.</hi>
+               </p>
+               <p>
+                  <hi>William Land</hi> Archbiſhop of <hi>Canterbury,</hi>
+               </p>
+               <p>
+                  <hi>James Montacue</hi> Biſhop of <hi>Salisbury.</hi>
+               </p>
+               <p>
+                  <hi>John King</hi> Biſhop of <hi>London.</hi>
+               </p>
+               <p>
+                  <hi>George Montacue</hi> Biſhop of <hi>London.</hi>
+               </p>
+               <p>
+                  <hi>Joſeph Hall</hi> Biſhop of <hi>Norwich.</hi>
+               </p>
+               <p>
+                  <hi>Robert</hi> Biſhop of <hi>Salisbury.</hi>
+               </p>
+               <p>
+                  <hi>William Perkins</hi> a painful Preacher and Writer.</p>
+               <p>
+                  <hi>Hugh Broughton.</hi>
+               </p>
+               <p>
+                  <hi>Alexander Henderſon.</hi>
+               </p>
+               <p>
+                  <hi>Nicholas Locker.</hi>
+               </p>
+               <p>Dr. <hi>William Sclayter.</hi>
+               </p>
+               <p>Mr. <hi>Chriſtopher Love.</hi>
+               </p>
+               <p>Mr. <hi>Henry Burton</hi> of <hi>Friday ſtreet.</hi>
+               </p>
+               <p>Mr. <hi>John Goodwin</hi> of <hi>Canterbury.</hi>
+               </p>
+               <p>Mr. <hi>William Butler.</hi>
+               </p>
+               <p>Dr. <hi>White.</hi>
+               </p>
+               <p>Dr. <hi>William Whitaker.</hi>
+               </p>
+               <p>
+                  <hi>Eraſmus</hi> of <hi>Rotterdam.</hi>
+               </p>
+               <p>Dr. <hi>Gouge.</hi>
+               </p>
+               <p>Mr. <hi>Jeremy Burroughs</hi>
+               </p>
+               <p>
+                  <hi>Alexander</hi> the <hi>7th.</hi> Pope of <hi>Rome.</hi>
+               </p>
+               <p>Cardinal <hi>Wolſey.</hi>
+               </p>
+               <p>Mr. <hi>Edmund Calamy.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Sorts of Pictures of Stories, half ſheets.</head>
+               <p>THe four Ages, Boy with puppies, two pictures of the Glutton and Belly-god, Fryer whipping the Nun, tho old Man and young Woman, the ſtupendious Veſſel, at <hi>Heinleberg,</hi> ſix Heads for Maids, Frier learning the Cats to ſing, old Mother <hi>Shipton,</hi> Coach and Horſes, the Earl of <hi>Eſſex's</hi> Herſe, three plates of Ships, <hi>Cornelius</hi> of <hi>Dort</hi> brings <hi>Parſons</hi> to Confeſſion, the Shepherd and Shepherdeſs, <hi>Queen Elizabeths</hi> Tomb, <hi>Pharaoh</hi> drowned in the Red Sea, <hi>David</hi> killing the <hi>Bear, Abraham</hi> offering <hi>Iſaac,</hi> the Monky's mock-feaſt, the Bear and two friends, <hi>Titian</hi> and his Miſt<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſ, and ſuch like; fifty ſorts.</p>
+               <p>Standing figures of ſorts of Princes, Nobles and Gen<g ref="char:EOLhyphen"/>try ſeventy plates.</p>
+            </div>
+            <div type="part">
+               <head>Sheets of Stories, Pot-ſize.</head>
+               <p>
+                  <hi>BAtes</hi> his two Emblemes.</p>
+               <p>Wit and folly in a maze.</p>
+               <p>Five <hi>Plates</hi> of the ſeveral Cries of <hi>London.</hi>
+               </p>
+               <p>
+                  <hi>Peter</hi> receives a Key from Chriſt.</p>
+               <p>A New-years Gift for a Shrow.</p>
+               <p>
+                  <hi>Ireland.</hi>
+               </p>
+               <p>
+                  <hi>Lubberland.</hi>
+               </p>
+               <p>The Earl of <hi>Huntingtons</hi> Arms blazoned.</p>
+               <p>
+                  <hi>London</hi> and <hi>Weſtminſter.</hi>
+               </p>
+               <p>A man beating his Wife.</p>
+               <p>The wife beating her Husband.</p>
+               <p>Two borders for pictures or writings.</p>
+               <p>Lame crew of beggars.</p>
+               <p>King and Queen of <hi>Bohemia.</hi>
+               </p>
+               <p>Duke of <hi>Savoy.</hi>
+               </p>
+               <p>The vile whoremaſter with the picture of them faceing his gown.</p>
+               <p>The young man hugging the old woman.</p>
+               <p>A death, with many verſes.</p>
+               <p>
+                  <hi>Suſanna</hi> and the Elders.</p>
+               <p>A ſilly contented Cuckold after the neweſt faſhion:</p>
+               <p>Fryer and Nun.</p>
+               <p>
+                  <hi>Europe, Aſia, Affrica</hi> and <hi>America.</hi>
+               </p>
+               <p>We are ſeven.</p>
+               <p>Boy and puppies.</p>
+               <p>Mother <hi>Louſe</hi> and her partner in one ſheet.</p>
+               <p>A Garden</p>
+               <p>Ad<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m and <hi>Eve.</hi>
+               </p>
+               <p>The Ten Commandements, Lord's prayer, &amp;c.</p>
+               <p>
+                  <hi>Abraham</hi> offering <hi>Iſaac.</hi>
+               </p>
+               <p>
+                  <hi>Moſes</hi> lifting up the Serpent in the Wilderneſs.</p>
+               <p>Twelve Apoſtles.</p>
+               <p>Four Fathers of the Church.</p>
+               <p>All the Kings of <hi>England</hi> from head to foot</p>
+            </div>
+            <div type="part">
+               <head>Sheets Pot-ſize, of Horſemen.</head>
+               <p>KIng <hi>James.</hi>
+               </p>
+               <p>King <hi>Charles</hi> the 1ſt</p>
+               <p>King <hi>Charles</hi> the 2d.</p>
+               <p>King <hi>David.</hi>
+               </p>
+               <p>King <hi>Solomon.</hi>
+               </p>
+               <p>King <hi>Joſia</hi>
+               </p>
+               <p>Duke of <hi>Monmouth.</hi>
+               </p>
+               <p>
+                  <hi>James</hi> Duke of <hi>York</hi>
+               </p>
+               <p>
+                  <hi>Henry</hi> Duke of <hi>Gloceſter,</hi>
+               </p>
+               <p>Lord Mayor of <hi>London.</hi>
+               </p>
+               <p>Duke of <hi>Albemarle.</hi>
+               </p>
+            </div>
+            <div type="notice">
+               <p>
+                  <hi>Theſe and many other ſorts of Printed Maps and Copy-Books, are Printed and ſold by</hi> Iohn Overton <hi>Stationer, at the ſigne of the</hi> White Horſe <hi>without</hi> Newgate <hi>who ſcorns to ſell any thing pittyfully done, and he hath more then ten times the choice and ſtock that</hi> R. W. <hi>hath, though he vapors that he is the oldeſt man. It was formerly Mr.</hi> Peter Stents <hi>ſhop the Antienteſt and Chiefeſt of that way in</hi> England. <hi>If any Book-ſellers or others in the Countrey deſires to have any of theſe things to ſell, If they ſend but a line to</hi> Iohn Overton <hi>dwelling as above expreſſed, he will take as exact care to furniſh them as if they were themſelves preſent, and at as cheap Priſes.</hi>
+               </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
